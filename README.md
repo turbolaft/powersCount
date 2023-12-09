@@ -1,6 +1,6 @@
 # Powers Count
 
-The C++ code which is able to count the number of powers two values, <em><a href="https://www.codecogs.com/eqnedit.php?latex=a^b" target="_blank"><img src="https://latex.codecogs.com/png.latex?a^b" title="a^b" style="color:white;" /></a></em>, where 2 <= a, b <= 1000
+The C++ code which is able to count the number of powers two values, <em><a href="https://www.codecogs.com/eqnedit.php?latex=\color{white} a^b" target="_blank"><img src="https://latex.codecogs.com/png.latex?\color{white}%20a^b" title="a^b" /></a></em>, where 2 <= a, b <= 1000
 
 
 ## Table of Contents
