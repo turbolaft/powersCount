@@ -30,6 +30,7 @@ std::vector<std::pair<int, int>> getPrimeFactorization(int a) {
             continue;
         }
 
+        
         while (true) {
             int exponentedNum = static_cast<int>(std::pow(number, exponent));
             if (!(remainder % exponentedNum == 0 && exponentedNum <= remainder)) break;
