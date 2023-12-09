@@ -7,6 +7,7 @@ The C++ code which is able to count the number of powers two values, <em><a href
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Examples](#examples)
 
 ## Features
 
@@ -28,3 +29,9 @@ git clone https://github.com/turbolaft/powersCount.git
 cd powersCount
 make
 ./target/main 1000 1000
+```
+
+## Examples
+
+![From 10 to 100](topTable.png)
+![From 100 to 1000](bottomTable.png)
